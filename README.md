@@ -1,2 +1,2 @@
 # Projects_DataCamp
-DataCamp python projects
+DataCamp Datascience with Python projects 
